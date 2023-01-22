@@ -1,4 +1,6 @@
 ### Hi there 👋
+### im bad in lua but my friends help me with it
+### and yes i dont know any lua
 
 <!--
 **divinemanix/divinemanix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
