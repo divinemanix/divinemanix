@@ -1,16 +1,14 @@
-### Hi there 👋
-### im bad in lua but my friends help me with it
-### and yes i dont know any lua
+# hello :D
 
-<!--
-**divinemanix/divinemanix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i like making scripts for roblox :)
 
-Here are some ideas to get you started:
+### im bad in lua but my friends help me
 
-- 🔭 I’m currently working on Kyo Theme
-- 🌱 I’m currently learning Lua
-- 👯 I’m looking to collaborate on someone or idk
-- 💬 Ask me about something
-- 📫 How to reach me: You can contact me on discord: alexia1#0009
-- ⚡ Fun fact: i like kyo
--->
+## some Languages i know 
+
+<p float="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="70"/>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Iratethisname10&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=My%20Most%20Used%20Languages)
